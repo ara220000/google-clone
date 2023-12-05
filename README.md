@@ -1,4 +1,4 @@
-# PÁGINA CLONE DE GOOGLE
+# PÁGINA CLON DE GOOGLE
 ## Descripción👁️👄👁️
 Hello, this is my first project: a **google clone** interface 🦦
 
